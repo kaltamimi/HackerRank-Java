@@ -11,11 +11,11 @@
 
 | Subdomain       | Challenge        |  Solution |
 | :-------------: |:--------------:   | :-------:|
-| Strings         |[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem?h_r=internal-search)|[Tokens.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/Tokens.java)|
-| Strings         |[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem?h_r=internal-search)|[Anagrams.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/Anagrams.java)|
+| Strings         |[String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem?h_r=internal-search)|[Tokens.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/Tokens.java)|
+| Strings         |[Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem?h_r=internal-search)|[Anagrams.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/Anagrams.java)|
 | Strings         |[Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem?h_r=internal-search)|[PatternSyntaxChecker.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/PatternSyntaxChecker.java)|
-| Strings         |[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem?h_r=internal-search)|[PaymentStringFormatter.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/PaymentStringFormatter.java)|
-| Strings         |[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem?h_r=internal-search)|[StringReverse.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/StringReverse.java)|
-| Strings         |[Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem?h_r=internal-search)|[SubstringComparisons.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/SubstringComparisons.java)|
-| Strings         |[Java Regex](https://www.hackerrank.com/challenges/java-regex/problem)|[Regex.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/Regex.java)|
-| Strings         |[Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem)|[DuplicateWords.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/DuplicateWords.java)|
+| Strings         |[Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem?h_r=internal-search)|[PaymentStringFormatter.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/PaymentStringFormatter.java)|
+| Strings         |[String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem?h_r=internal-search)|[StringReverse.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/StringReverse.java)|
+| Strings         |[Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem?h_r=internal-search)|[SubstringComparisons.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/SubstringComparisons.java)|
+| Strings         |[Regex](https://www.hackerrank.com/challenges/java-regex/problem)|[Regex.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/Regex.java)|
+| Strings         |[Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem)|[DuplicateWords.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/DuplicateWords.java)|
