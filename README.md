@@ -18,3 +18,4 @@
 | Strings         |[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem?h_r=internal-search)|[StringReverse.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/StringReverse.java)|
 | Strings         |[Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem?h_r=internal-search)|[SubstringComparisons.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/SubstringComparisons.java)|
 | Strings         |[Java Regex](https://www.hackerrank.com/challenges/java-regex/problem)|[Regex.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/Regex.java)|
+| Strings         |[Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem)|[DuplicateWords.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/DuplicateWords.java)|
