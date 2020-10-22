@@ -8,6 +8,16 @@ public class DuplicateWords {
 
     public static void main(String[] args) {
 
+
+        //\b start of word word boundary
+        //\W+ any word character
+        //\1 same word matched already
+        //\b end of word
+        //()* Repeating again
+        //() are used for grouping of regex phrases.
+        //group(1) contains the string that is between parenthesis (.) so . Item
+        //m.group(0) contains whole matched string.
+
         String regex = "\\b([a-z]|[A-Z]+)(\\s+\\1\\b)+";
         Pattern p = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
 
