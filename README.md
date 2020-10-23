@@ -21,3 +21,4 @@
 | Strings         |[Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem)|[DuplicateWords.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/DuplicateWords.java)|
 | Strings         |[Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)|[RegexUserName.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/RegexUserName.java)|
 | Strings         |[Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|[StringsIntroduction.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/StringsIntroduction.java)|
+| Strings         |[Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)|[TagContentExtractor.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/TagContentExtractor.java)|
