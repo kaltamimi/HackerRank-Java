@@ -19,3 +19,4 @@
 | Strings         |[Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem?h_r=internal-search)|[SubstringComparisons.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/SubstringComparisons.java)|
 | Strings         |[Regex](https://www.hackerrank.com/challenges/java-regex/problem)|[Regex.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/Regex.java)|
 | Strings         |[Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem)|[DuplicateWords.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/DuplicateWords.java)|
+| Strings         |[Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)|[RegexUserName.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/RegexUserName.java)|
