@@ -24,3 +24,4 @@
 | Strings         |[Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)|[TagContentExtractor.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/TagContentExtractor.java)|
 | Data Structures |[List](https://www.hackerrank.com/challenges/java-list/problem)|[JavaList.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/JavaList.java)|
 | Data Structures |[1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)|[OneDArray.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/OneDArray.java)|
+| Data Structures |[2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)|[TwoDArray.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/TwoDArray.java)|
