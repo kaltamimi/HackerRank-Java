@@ -26,3 +26,10 @@
 | Data Structures |[1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)|[OneDArray.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/OneDArray.java)|
 | Data Structures |[2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)|[TwoDArray.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/TwoDArray.java)|
 | Data Structures |[Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)|[Subareas.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/Subareas.java)|
+
+
+## Data Structures
+
+| Subdomain       | Challenge        |  Solution |
+| :-------------: |:--------------:   | :-------:|
+| Linked Lists |[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)|[CycleDetection.java](https://github.com/kaltamimi/HackerRank/blob/master/src/DataStructures/LinkedLists/CycleDetection.java)|
