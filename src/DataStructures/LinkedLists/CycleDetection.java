@@ -1,11 +1,12 @@
-package DataStructures.LinkedLists;
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Scanner;
-
-public class CycleDetection {
+public class Solution {
 
     static class SinglyLinkedListNode {
         public int data;
@@ -63,10 +64,9 @@ public class CycleDetection {
      *
      */
     static boolean hasCycle(SinglyLinkedListNode head) {
-
-        if (head == null)
+        if (head == null){
             return false;
-
+        }
         SinglyLinkedListNode fast = head.next;
         SinglyLinkedListNode slow = head;
         while (fast != null && fast.next != null) {
@@ -112,7 +112,7 @@ public class CycleDetection {
                     extra = temp;
                 }
 
-                if (i != llistCount - 1) {
+                if (i != llistCount-1) {
                     temp = temp.next;
                 }
             }
@@ -129,3 +129,4 @@ public class CycleDetection {
 
         scanner.close();
     }
+}
