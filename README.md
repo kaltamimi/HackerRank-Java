@@ -11,6 +11,7 @@
 
 | Subdomain       | Challenge        |  Solution |
 | :-------------: |:--------------:   | :-------:|
+| Introduction    |[Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)|[WelcomeToJava.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Introduction/WelcomeToJava.java)|
 | Strings         |[String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem?h_r=internal-search)|[Tokens.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/Tokens.java)|
 | Strings         |[Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem?h_r=internal-search)|[Anagrams.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/Anagrams.java)|
 | Strings         |[Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem?h_r=internal-search)|[PatternSyntaxChecker.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/PatternSyntaxChecker.java)|
