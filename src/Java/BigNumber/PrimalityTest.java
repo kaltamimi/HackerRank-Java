@@ -14,7 +14,7 @@ public class PrimalityTest {
 
         BigInteger number = new BigInteger(n);
 
-        System.out.println(number.isProbablePrime(10) ? "prime" : "not prime");
+        System.out.println(number.isProbablePrime(100) ? "prime" : "not prime");
 
     }
 
