@@ -27,6 +27,8 @@
 | Strings         |[Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|[StringsIntroduction.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/StringsIntroduction.java)|
 | Strings         |[Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)|[TagContentExtractor.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/Strings/TagContentExtractor.java)|
 | BigNumber       |[Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)|[PrimalityTest.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/BigNumber/PrimalityTest.java)|
+| BigNumber       |[BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)|[JavaBigDecimal.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/BigNumber/JavaBigDecimal.java)|
+
 | Data Structures |[List](https://www.hackerrank.com/challenges/java-list/problem)|[JavaList.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/JavaList.java)|
 | Data Structures |[1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)|[OneDArray.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/OneDArray.java)|
 | Data Structures |[2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)|[TwoDArray.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/TwoDArray.java)|
