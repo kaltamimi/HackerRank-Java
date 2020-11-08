@@ -1,7 +1,7 @@
 package Java.DataStructures;
 
+import java.util.ArrayDeque;
 import java.util.Scanner;
-import java.util.Stack;
 
 public class JavaStack {
 
@@ -11,39 +11,45 @@ public class JavaStack {
         while (sc.hasNext()) {
             String input = sc.next();
             //Complete the code
-            checkPar(input);
+            checkParentheses(input);
         }
 
     }
 
-    static void checkPar(String input) {
-        Stack<Character> stack = new Stack<Character>();
+    static void checkParentheses(String input) {
+
+        if ( input.length() % 2 != 0 ){ // odd length Strings are not balanced
+            System.out.println("false");
+            return;
+        }
+        // ArrayDeque is "likely to be faster than Stack when used as a stack" - Java documentation
+        ArrayDeque<Character> deque = new ArrayDeque(); // use deque as a stack
         char[] ch = input.toCharArray();
         boolean flag = true;
 
         for (char c : ch) {
             if (c == '(' || c == '{' || c == '[') {
-                stack.push(c);
+                deque.push(c);
             } else {
-                if ( stack.isEmpty() ){
+                if ( deque.isEmpty() ){
                     System.out.println("false");
                     return;
                 }
                 switch (c) {
                     case '}':
-                        if (!stack.peek().equals('{'))
+                        if (!deque.peek().equals('{'))
                             flag = false;
                         break;
                     case ')':
-                        if (!stack.peek().equals('('))
+                        if (!deque.peek().equals('('))
                             flag = false;
                         break;
                     case ']':
-                        if (!stack.peek().equals('['))
+                        if (!deque.peek().equals('['))
                             flag = false;
                         break;
                 }//switch
-                stack.pop();
+                deque.pop();
                 if (!flag) {
                     System.out.println("false");
                     return;
@@ -52,7 +58,7 @@ public class JavaStack {
 
 
         }//for
-        if (stack.isEmpty())
+        if (deque.isEmpty())
             System.out.println("true");
         else
             System.out.println("false");
