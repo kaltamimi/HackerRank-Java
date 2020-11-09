@@ -35,6 +35,7 @@
 | Data Structures |[Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)|[Subareas.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/Subareas.java)|
 | Data Structures |[Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem)|[Arraylist.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/Arraylist.java)|
 | Data Structures |[Map](https://www.hackerrank.com/challenges/phone-book/problem?h_r=profile)|[JavaMap.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/JavaMap.java)|
+| Data Structures |[Stack]()|[]()|
 
 ## Data Structures
 
