@@ -37,6 +37,7 @@
 | Data Structures |[Map](https://www.hackerrank.com/challenges/phone-book/problem?h_r=profile)|[JavaMap.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/JavaMap.java)|
 | Data Structures |[Stack](https://www.hackerrank.com/challenges/java-stack/problem)|[JavaStack.java](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/JavaStack.java) |
 | Data Structures |[Hashset](https://www.hackerrank.com/challenges/java-hashset/problem?h_r=next-challenge&h_v=zen&isFullScreen=false)|[JavaHashSet](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/JavaHashSet.java)|
+| Data Structures |[Generics](https://www.hackerrank.com/challenges/java-generics/problem)|[JavaGenerics](https://github.com/kaltamimi/HackerRank/blob/master/src/Java/DataStructures/JavaGenerics.java)|
 
 ## Data Structures
 
