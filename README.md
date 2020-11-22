@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/29129003/96599001-206aed80-12f8-11eb-9cbf-9ab1eca1f8f5.png" width="400" height="300" url="https://www.hackerrank.com/kawtharmujahed?hr_r=1">
 </p>
-</a>`
+</a>
 
 
 ## Java
